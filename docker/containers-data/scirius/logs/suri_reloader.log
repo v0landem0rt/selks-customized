@@ -1,0 +1,42 @@
+2021-10-01 13:46:16,698 suri_reloader INFO     Monitoring ruleset updates
+2021-10-01 13:46:17,700 suri_reloader INFO     Ruleset reload triggered
+2021-10-01 13:46:17,700 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-03 06:43:52,338 suri_reloader INFO     Monitoring ruleset updates
+2021-10-03 06:43:53,341 suri_reloader INFO     Ruleset reload triggered
+2021-10-03 06:43:53,341 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-03 13:39:18,136 suri_reloader INFO     Monitoring ruleset updates
+2021-10-03 13:39:19,153 suri_reloader INFO     Ruleset reload triggered
+2021-10-03 13:39:19,154 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-03 14:04:19,573 suri_reloader INFO     Monitoring ruleset updates
+2021-10-03 14:04:20,574 suri_reloader INFO     Ruleset reload triggered
+2021-10-03 14:04:20,574 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-03 14:16:54,472 suri_reloader INFO     Monitoring ruleset updates
+2021-10-03 14:16:55,474 suri_reloader INFO     Ruleset reload triggered
+2021-10-03 14:16:55,474 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-04 06:10:07,870 suri_reloader INFO     Monitoring ruleset updates
+2021-10-04 06:10:08,932 suri_reloader INFO     Ruleset reload triggered
+2021-10-04 06:10:08,933 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-04 06:21:01,947 suri_reloader INFO     Monitoring ruleset updates
+2021-10-04 06:21:02,948 suri_reloader INFO     Ruleset reload triggered
+2021-10-04 06:21:02,948 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-04 06:29:45,853 suri_reloader INFO     Monitoring ruleset updates
+2021-10-04 06:29:46,854 suri_reloader INFO     Ruleset reload triggered
+2021-10-04 06:29:46,854 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-04 07:06:13,108 suri_reloader INFO     Monitoring ruleset updates
+2021-10-04 07:06:14,109 suri_reloader INFO     Ruleset reload triggered
+2021-10-04 07:06:14,110 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-04 13:14:02,421 suri_reloader INFO     Monitoring ruleset updates
+2021-10-04 13:14:03,612 suri_reloader INFO     Ruleset reload triggered
+2021-10-04 13:14:03,612 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-05 11:01:30,849 suri_reloader INFO     Monitoring ruleset updates
+2021-10-05 11:01:31,947 suri_reloader INFO     Ruleset reload triggered
+2021-10-05 11:01:31,947 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-05 11:53:59,624 suri_reloader INFO     Monitoring ruleset updates
+2021-10-05 11:54:00,626 suri_reloader INFO     Ruleset reload triggered
+2021-10-05 11:54:00,626 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-05 12:31:02,591 suri_reloader INFO     Monitoring ruleset updates
+2021-10-05 12:31:03,592 suri_reloader INFO     Ruleset reload triggered
+2021-10-05 12:31:03,592 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
+2021-10-05 12:50:11,042 suri_reloader INFO     Monitoring ruleset updates
+2021-10-05 12:50:12,044 suri_reloader INFO     Ruleset reload triggered
+2021-10-05 12:50:12,044 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 111] Connection refused
