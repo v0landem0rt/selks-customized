@@ -60,8 +60,8 @@ services:
     environment:
       - I18N_LOCALE=ru-RU
     volumes:
-      - /root/local_kibana/ready/:/usr/share/kibana/x-pack/plugins/translations #here we create russian customization
-      - /root/local_kibana/ready/:/usr/share/kibana/translations
+      - {$PWD}/rus_loc/:/usr/share/kibana/x-pack/plugins/translations #here we create russian customization
+      - {$PWD}/rus_loc/:/usr/share/kibana/translations
     healthcheck:
       test: ["CMD-SHELL", "curl --silent --fail localhost:5601 || exit 1"]
       interval: 30s
