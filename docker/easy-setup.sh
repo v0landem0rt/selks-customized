@@ -76,6 +76,7 @@ SKIP_CHECKS="false"
 INTERFACES=""
 ELASTIC_DATAPATH=""
 PRINT_PARAM="false"
+WORK_DIR=""
 # extract options and their arguments into variables.
 while true ; do
   case "${1}" in
@@ -481,7 +482,7 @@ else
   fi
 fi
 case $yn in
-    [Yy]* ) echo "SCIRIUS_DEBUG=True" >> ${BASEDIR}/.env; echo "NGINX_EXEC=nginx-debug" >> ${BASEDIR}/.env; break;;
+    [Yy]* ) echo "SCIRIUS_DEBUG=True" >> ${BASEDIR}/.env; echo "NGINX_EXEC=nginx-debug" >> ${BASEDIR}/.env; echo "WORK_DIR=${BASEDIR}" >> ${BASEDIR}/.env; break;;
     * ) ;;
 esac
 
