@@ -463,7 +463,7 @@ do
 done
 
 echo "INTERFACES=${INTERFACES_LIST}" >> ${BASEDIR}/.env
-
+echo "WORK_DIR=${BASEDIR}" >> ${BASEDIR}/.env
 
 ##############
 # DEBUG MODE #
@@ -482,7 +482,7 @@ else
   fi
 fi
 case $yn in
-    [Yy]* ) echo "SCIRIUS_DEBUG=True" >> ${BASEDIR}/.env; echo "NGINX_EXEC=nginx-debug" >> ${BASEDIR}/.env; echo "WORK_DIR=${BASEDIR}" >> ${BASEDIR}/.env; break;;
+    [Yy]* ) echo "SCIRIUS_DEBUG=True" >> ${BASEDIR}/.env; echo "NGINX_EXEC=nginx-debug" >> ${BASEDIR}/.env; break;;
     * ) ;;
 esac
 
