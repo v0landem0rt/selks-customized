@@ -55,3 +55,9 @@
 2021-10-10 06:37:39,051 suri_reloader INFO     Monitoring ruleset updates
 2021-10-10 06:37:40,052 suri_reloader INFO     Ruleset reload triggered
 2021-10-10 06:37:40,053 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-10 07:55:44,122 suri_reloader INFO     Monitoring ruleset updates
+2021-10-10 07:55:45,123 suri_reloader INFO     Ruleset reload triggered
+2021-10-10 07:55:45,124 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
+2021-10-10 12:22:21,372 suri_reloader INFO     Monitoring ruleset updates
+2021-10-10 12:22:22,373 suri_reloader INFO     Ruleset reload triggered
+2021-10-10 12:22:22,373 suri_reloader ERROR    Unable to connect to socket /var/run/suricata/suricata-command.socket: [Errno 2] No such file or directory
