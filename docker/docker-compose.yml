@@ -63,7 +63,7 @@ services:
       - ${WORK_DIR}/rus_loc:/usr/share/kibana/x-pack/plugins/translations 
       - ${WORK_DIR}/rus_loc:/usr/share/kibana/translations
       - ${WORK_DIR}/.i18nrc.json:/usr/share/kibana/.i18nrc.json
-      - ${WORK_DIR}/.i18nrc.json:/usr/share/kibana/x-pack/.i18nrc.json
+      - ${WORK_DIR}/.i18_xpack_nrc.json:/usr/share/kibana/x-pack/.i18nrc.json
     healthcheck:
       test: ["CMD-SHELL", "curl --silent --fail localhost:5601 || exit 1"]
       interval: 30s
